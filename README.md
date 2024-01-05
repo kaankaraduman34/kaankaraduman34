@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=F7B115&center=true&vCenter=true&random=false&width=438&height=60&lines=Hello+There;I'm+Kaan+Karaduman)](https://git.io/typing-svg)
 
+<br/>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=I-love-ML&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 
