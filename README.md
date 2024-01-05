@@ -23,7 +23,6 @@
 
 ![snake gif](https://github.com/I-love-ML/I-love-ML/blob/output/github-contribution-grid-snake-dark.svg)
 
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align=center>
