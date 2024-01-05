@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lalezar&weight=600&size=43&duration=4000&pause=1000&color=F7C509&center=true&vCenter=true&random=false&width=435&lines=Hi+There+👋;I'm+Kaan+Karaduman)](https://git.io/typing-svg)
 
-<br/>
+<hr class="solid">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=I-love-ML&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
