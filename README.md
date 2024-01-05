@@ -1,9 +1,6 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=I-love-ML.I-love-ML&left_color=red&right_color=green&left_text=Hello%20Visitors&align=right)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=I-love-ML.I-love-ML&left_color=red&right_color=green&left_text=Hello%20Visitors&align=center)
 
 <h1 align="center">Hi👋, I'm Kaan KARADUMAN</h1>
-
-
-
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=I-love-ML&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
