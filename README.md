@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋, I'm Kaan KARADUMAN</h1>
 
-https://github-profile-trophy.vercel.app/?username=I-love-ML&theme=discord
+[![trophy](https://github-profile-trophy.vercel.app/?username=I-love-ML&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
