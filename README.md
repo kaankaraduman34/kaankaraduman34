@@ -6,6 +6,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=I-love-ML&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
