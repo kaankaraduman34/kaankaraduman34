@@ -19,4 +19,4 @@
 
 <hr>
 
-![snake gif](https://github.com/I-love-ML/I-love-ML/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/I-love-ML/I-love-ML/blob/output/github-contribution-grid-snake-dark.svg)
