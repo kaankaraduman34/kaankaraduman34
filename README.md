@@ -1,6 +1,6 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=I-love-ML.I-love-ML&left_color=red&right_color=green&left_text=Hello%20Visitors)
 
-<h1 align="center">Hi👋, I'm Kaan KARADUMAN</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42C9F7&center=true&random=false&width=500&lines=Hello+There;I'm+Kaan+Karaduman)](https://git.io/typing-svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=I-love-ML&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
