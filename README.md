@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=I-love-ML.I-love-ML&left_color=red&right_color=green&left_text=Hello%20Visitors&align=center)
+ <img align="right" src=https://visitor-badge.laobi.icu/badge?page_id=I-love-ML.I-love-ML/>
 
 <h1 align="center">Hi👋, I'm Kaan KARADUMAN</h1>
 
