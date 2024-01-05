@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=I-love-ML.I-love-ML" />
+<img align="right" left_color="red" right_color="green" src="https://visitor-badge.laobi.icu/badge?page_id=I-love-ML.I-love-ML" />
 
 <h1 align="center">Hi👋, I'm Kaan KARADUMAN</h1>
 
