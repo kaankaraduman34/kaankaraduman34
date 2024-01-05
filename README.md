@@ -1,6 +1,6 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=I-love-ML.I-love-ML&left_color=red&right_color=green&left_text=Hello%20Visitors)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lalezar&weight=600&size=43&duration=4000&pause=1000&color=F7C509&center=true&vCenter=true&random=false&width=435&lines=Hi+There;I'm+Kaan+Karaduman)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lalezar&weight=600&size=43&duration=4000&pause=1000&color=F7C509&center=true&vCenter=true&random=false&width=435&lines=Hi+There+👋;I'm+Kaan+Karaduman)](https://git.io/typing-svg)
 
 <br/>
 
