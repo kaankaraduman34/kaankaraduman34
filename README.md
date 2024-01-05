@@ -3,8 +3,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=I-love-ML&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kaanxtr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kaanxtr/" height="30" width="40" /></a>
