@@ -1,5 +1,4 @@
 <h1 align="center">Hi👋, I'm Kaan KARADUMAN</h1>
-<h3 align="center">A Data Scientist from Turkey</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
