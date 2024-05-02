@@ -1,16 +1,16 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=I-love-ML.I-love-ML&left_color=red&right_color=green&left_text=Visitors)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=kaankaraduman34.kaankaraduman34&left_color=red&right_color=green&left_text=Visitors)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lalezar&weight=500&size=100&pause=1000&color=F7B813&center=true&vCenter=true&random=false&width=2000&height=150&lines=Hi+There+%F0%9F%91%8B;I'm+Kaan+Karaduman" alt="Typing SVG" /></a>
 
 <hr>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=I-love-ML&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kaankaraduman34&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 <hr>
 
 <h3 align="center">🌎 Connect with me 🌎</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/kaanxtr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kaanxtr/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kaankaraduman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kaankaraduman/" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/kaanxtr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/kaanxtr" height="30" width=40" /></a>
 </p>
 
@@ -21,9 +21,9 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/I-love-ML/I-love-ML/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/I-love-ML/I-love-ML/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/I-love-ML/I-love-ML/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaankaraduman34/kaankaraduman34/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaankaraduman34/kaankaraduman34/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kaankaraduman34/kaankaraduman34/output/github-contribution-grid-snake.svg">
 </picture>
 
 
