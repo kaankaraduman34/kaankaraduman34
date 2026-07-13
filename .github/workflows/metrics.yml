@@ -1,0 +1,31 @@
+name: metrics
+on:
+  # her 12 saatte bir + elle + main'e push
+  schedule:
+    - cron: "5 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Veri icin PAT (private repolari da sayar). SNK_TOKEN'a 'repo' scope EKLE.
+          token: ${{ secrets.SNK_TOKEN }}
+          # SVG'yi repoya push etmek icin dahili token yeter
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: kaankaraduman34
+          filename: github-metrics.svg
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/Istanbul
+          # dil dagilimi (eski top-langs karti yerine)
+          plugin_languages: yes
+          plugin_languages_details: percentage, bytes
+          plugin_languages_limit: 8

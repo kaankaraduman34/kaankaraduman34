@@ -4,10 +4,6 @@
 
 <hr>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kaankaraduman34&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
-
-<hr>
-
 <h3 align="center">🌎 Connect with me 🌎</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/kaankaraduman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kaankaraduman/" height="30" width="40" /></a>
@@ -29,7 +25,5 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=kaankaraduman34&show_icons=true&theme=transparent" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaankaraduman34&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img src="https://raw.githubusercontent.com/kaankaraduman34/kaankaraduman34/main/github-metrics.svg" alt="metrics" />
 </div>
